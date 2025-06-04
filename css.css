@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+}
+
+button{
+    background: green;
+    border-radius: 5px;
+    font-size: 22px;
+}
